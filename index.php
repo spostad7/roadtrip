@@ -142,7 +142,6 @@
             </ul>
         </div><!--/complementary-->
 
-<?php
-    include_once('_inc/contentinfo.php');
+<?php include_once('_inc/contentinfo.php');
     include_once('_inc/foot.php');
 ?>
